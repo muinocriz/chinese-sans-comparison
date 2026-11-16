@@ -8,6 +8,8 @@
 
 <p align="center">
   <img src="screenshots/Windows平台字体展示.png" alt="Windows平台字体展示">
+  <br>
+  <sub>Windows 平台展示效果</sub>
 </p>
 
 ## 使用方法
