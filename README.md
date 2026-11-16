@@ -6,6 +6,10 @@
 
 在输入框里打字，四个展示框会同步显示同一段文字，方便直接看出字形、字面大小、标点位置和中英混排的差别。
 
+<p align="center">
+  <img src="screenshots/Windows平台字体展示.png" alt="Windows平台字体展示">
+</p>
+
 ## 使用方法
 
 - **在线打开**：开启 GitHub Pages 后访问 `https://muinocriz.github.io/chinese-sans-comparison/`
